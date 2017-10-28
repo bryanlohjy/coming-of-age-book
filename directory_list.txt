@@ -1,3 +1,4 @@
+temp/downloads/birth/
 temp/downloads/infancy/parents
 temp/downloads/infancy/steps
 temp/downloads/infancy/playing
