@@ -102,11 +102,8 @@ temp/downloads/mid_adult/children https://images.unsplash.com/photo-150893088351
 temp/downloads/mid_adult/children https://images.unsplash.com/photo-1501786288304-5c131cc07499?auto=format&fit=crop&w=3150&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 temp/downloads/mid_adult/children https://images.unsplash.com/photo-1440504738219-a74a11143d50?auto=format&fit=crop&w=3150&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 
-temp/downloads/mid_adult/work
+temp/downloads/mid_adult/work 
 temp/downloads/mid_adult/friends
-temp/downloads/mid_adult/spouse_divorce
-temp/downloads/mid_adult/friend_death
-temp/downloads/mid_adult/child_death
 
 temp/downloads/late_adult/retirement
 temp/downloads/late_adult/grandchildren https://static.pexels.com/photos/302083/pexels-photo-302083.jpeg

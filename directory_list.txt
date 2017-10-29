@@ -23,9 +23,7 @@ temp/downloads/mid_adult/promotion
 temp/downloads/mid_adult/children
 temp/downloads/mid_adult/work
 temp/downloads/mid_adult/friends
-temp/downloads/mid_adult/spouse_divorce
 temp/downloads/mid_adult/friend_death
-temp/downloads/mid_adult/child_death
 temp/downloads/late_adult/retirement
 temp/downloads/late_adult/grandchildren
 temp/downloads/late_adult/hobby
