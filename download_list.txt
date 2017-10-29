@@ -36,7 +36,7 @@ temp/downloads/childhood/friend https://static.pexels.com/photos/8457/sport.jpg
 temp/downloads/childhood/friend https://images.unsplash.com/photo-1502031560955-34b542d0a80b?auto=format&fit=crop&w=2501&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 temp/downloads/childhood/kindergarten https://static.pexels.com/photos/207697/pexels-photo-207697.jpeg
 temp/downloads/childhood/kindergarten https://static.pexels.com/photos/256468/pexels-photo-256468.jpeg
-temp/downloads/childhood/kindergarten https://images.unsplash.com/photo-1485460535564-844461f37f77?auto=format&fit=crop&w=1534&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D
+temp/downloads/childhood/kindergarten https://images.unsplash.com/photo-1485460535564-844461f37f77?auto=format&fit=crop&w=1534&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 
 temp/downloads/adolescence https://images.unsplash.com/photo-1494381751529-e0983fbbb859?auto=format&fit=crop&w=1576&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 temp/downloads/adolescence https://images.unsplash.com/photo-1471878064729-57c806d8414b?auto=format&fit=crop&w=3150&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
@@ -68,7 +68,7 @@ temp/downloads/early_adult/twenty_first https://static.pexels.com/photos/219101/
 temp/downloads/early_adult/twenty_first https://images.unsplash.com/photo-1488269848736-f7710de7e781?auto=format&fit=crop&w=3150&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 temp/downloads/early_adult/graduation https://images.unsplash.com/photo-1507142971731-a48b3889cadd?auto=format&fit=crop&w=3150&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 temp/downloads/early_adult/graduation https://images.unsplash.com/photo-1473624566182-509e437512f4?auto=format&fit=crop&w=3150&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
-temp/downloads/early_adult/graduation https://images.unsplash.com/photo-1462536943532-57a629f6cc60?auto=format&fit=crop&w=3008&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D
+temp/downloads/early_adult/graduation https://images.unsplash.com/photo-1462536943532-57a629f6cc60?auto=format&fit=crop&w=3008&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 temp/downloads/early_adult/graduation https://images.unsplash.com/photo-1502788651846-cafa465ae151?auto=format&fit=crop&w=3150&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 temp/downloads/early_adult/work https://static.pexels.com/photos/288477/pexels-photo-288477.jpeg
 temp/downloads/early_adult/work https://images.unsplash.com/photo-1503564996084-7acb58ec325c?auto=format&fit=crop&w=3150&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
@@ -93,7 +93,6 @@ temp/downloads/mid_adult/marriage https://images.unsplash.com/photo-148766800465
 temp/downloads/mid_adult/marriage https://images.unsplash.com/photo-1473177027534-53d906e9abcf?auto=format&fit=crop&w=3000&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 temp/downloads/mid_adult/marriage https://images.unsplash.com/photo-1505686183080-0020a5979305?auto=format&fit=crop&w=3150&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 temp/downloads/mid_adult/marriage https://images.unsplash.com/photo-1461938337379-4b537cd2db74?auto=format&fit=crop&w=3101&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
-
 temp/downloads/mid_adult/children https://images.unsplash.com/photo-1456918629585-305b3f5041bf?auto=format&fit=crop&w=3150&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 temp/downloads/mid_adult/children https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?auto=format&fit=crop&w=2976&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 temp/downloads/mid_adult/children https://images.unsplash.com/photo-1444318226545-dfd6106d7ec4?auto=format&fit=crop&w=3100&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
@@ -101,12 +100,35 @@ temp/downloads/mid_adult/children https://images.unsplash.com/photo-146115054014
 temp/downloads/mid_adult/children https://images.unsplash.com/photo-1508930883516-7f594c5b68b9?auto=format&fit=crop&w=3150&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 temp/downloads/mid_adult/children https://images.unsplash.com/photo-1501786288304-5c131cc07499?auto=format&fit=crop&w=3150&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 temp/downloads/mid_adult/children https://images.unsplash.com/photo-1440504738219-a74a11143d50?auto=format&fit=crop&w=3150&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/mid_adult/work https://images.unsplash.com/photo-1462826364008-c758d56d9fa7?auto=format&fit=crop&w=2550&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/mid_adult/work https://images.unsplash.com/photo-1506701554939-d0aa4c26d79c?auto=format&fit=crop&w=2552&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/mid_adult/work https://images.unsplash.com/photo-1427104227401-94b390b378b0?auto=format&fit=crop&w=2551&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/mid_adult/work https://images.unsplash.com/photo-1484348916926-2284848464bb?auto=format&fit=crop&w=1534&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/mid_adult/friends https://images.unsplash.com/photo-1501087998948-0f56ab6e05b5?auto=format&fit=crop&w=1534&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/mid_adult/friends https://images.unsplash.com/photo-1464207687429-7505649dae38?auto=format&fit=crop&w=2552&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/mid_adult/friends https://images.unsplash.com/photo-1448518184296-a22facb4446f?auto=format&fit=crop&w=2550&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/mid_adult/friends https://images.unsplash.com/photo-1439539698758-ba2680ecadb9?auto=format&fit=crop&w=2550&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/mid_adult/friends https://images.unsplash.com/photo-1494023120489-e26d4967e173?auto=format&fit=crop&w=2550&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/mid_adult/friends https://images.unsplash.com/photo-1501710892237-39aecd222d52?auto=format&fit=crop&w=2563&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
 
-temp/downloads/mid_adult/work 
-temp/downloads/mid_adult/friends
-
-temp/downloads/late_adult/retirement
-temp/downloads/late_adult/grandchildren https://static.pexels.com/photos/302083/pexels-photo-302083.jpeg
-temp/downloads/late_adult/hobby
-temp/downloads/late_adult/sickness
-temp/downloads/late_adult/spouse_death
+temp/downloads/late_adult/retirement https://images.unsplash.com/photo-1415226581130-91cb7f52f078?auto=format&fit=crop&w=2467&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/retirement https://static.pexels.com/photos/6054/bench-man-people-woman.jpg
+temp/downloads/late_adult/retirement https://images.unsplash.com/photo-1495415241914-244b5131550c?auto=format&fit=crop&w=2467&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/retirement https://images.unsplash.com/photo-1491575509428-5cc7d3e4076b?auto=format&fit=crop&w=2550&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/retirement https://images.unsplash.com/photo-1494676731265-5ed4f59790f9?auto=format&fit=crop&w=2552&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/retirement https://images.unsplash.com/photo-1483304528321-0674f0040030?auto=format&fit=crop&w=2550&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/retirement https://images.unsplash.com/photo-1442458370899-ae20e367c5d8?auto=format&fit=crop&w=2467&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/grandchildren https://images.unsplash.com/photo-1458134580443-fbb0743304eb?auto=format&fit=crop&w=2450&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/grandchildren https://images.unsplash.com/photo-1496464749978-589a1f20b1e3?auto=format&fit=crop&w=2554&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/grandchildren https://images.unsplash.com/photo-1480985041486-c65b20c01d1f?auto=format&fit=crop&w=2555&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/grandchildren https://images.unsplash.com/photo-1460364157752-926555421a7e?auto=format&fit=crop&w=2550&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/grandchildren https://images.unsplash.com/photo-1444681179373-730055ddc7b6?auto=format&fit=crop&w=2550&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/grandchildren https://images.unsplash.com/photo-1501516834911-269dbce099a0?auto=format&fit=crop&w=2555&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/sickness https://images.unsplash.com/photo-1473508476344-269a87b502ee?auto=format&fit=crop&w=2550&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/sickness https://images.unsplash.com/photo-1471864190281-a93a3070b6de?auto=format&fit=crop&w=2550&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/sickness https://images.unsplash.com/photo-1484973768669-7fb6b5451095?auto=format&fit=crop&w=2549&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/spouse_death https://images.unsplash.com/photo-1423784346385-c1d4dac9893a?auto=format&fit=crop&w=2550&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/spouse_death https://images.unsplash.com/photo-1455311683036-3e949a996256?auto=format&fit=crop&w=2505&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/spouse_death https://images.unsplash.com/photo-1504813184591-01572f98c85f?auto=format&fit=crop&w=2551&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/spouse_death https://images.unsplash.com/photo-1503562716060-e3f2c7ba24aa?auto=format&fit=crop&w=2553&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
+temp/downloads/late_adult/spouse_death https://images.unsplash.com/photo-1503861556608-267b7ff36a14?auto=format&fit=crop&w=2550&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D.jpeg
