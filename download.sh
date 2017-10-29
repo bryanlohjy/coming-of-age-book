@@ -8,8 +8,3 @@ do
 		then wget $url -P $path
 	fi
 done < download_list.txt
-# for p in $(xargs < download_list.txt);
-# do 
-# 	echo $p
-# 	# wget --adjust-extension $p
-# done
