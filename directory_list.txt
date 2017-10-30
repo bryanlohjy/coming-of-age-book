@@ -16,8 +16,8 @@ temp/downloads/late_adult/retirement
 temp/downloads/late_adult/grandchildren
 temp/downloads/late_adult/sickness
 temp/downloads/late_adult/spouse_death
-
-
+temp/outputs/images
+temp/outputs/pdfs
 
 
 
