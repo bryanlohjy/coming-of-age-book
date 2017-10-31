@@ -38,10 +38,10 @@ class Page:
         self.init_elements(elements)
     def init_elements(self, elements):
         new_elements = []
+        global overflowing_element
         if len(elements) > 0:
             vertical_margin = self.h/3
             h_margin = 20
-            global overflowing_element
             for i in range(len(elements)):
                 url = elements[i]
                 if self.page_number == 0: # if birth page, render image in middle
@@ -81,7 +81,12 @@ class Page:
                     new_elements.append(new_element)
                     if right > self.w: # if overflowing, store it
                         overflowing_element = copy.deepcopy(new_element)
-
+        elif self.page_number == 27:
+            if overflowing_element:
+                repeat_el = overflowing_element
+                repeat_el.x = repeat_el.x - self.w
+                new_elements.append(repeat_el)
+                overflowing_element = None
         self.elements = new_elements
                 
     def draw(self, output_directory='one.png'):
@@ -92,7 +97,6 @@ class Page:
         doc.save(output_directory, 'PNG')
 
 book = []
-
 def draw_book(plot):
     print('Drawing pages...')
     page_w = 2480
