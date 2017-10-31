@@ -1,8 +1,5 @@
 temp/downloads/birth/ https://static.pexels.com/photos/161709/newborn-baby-feet-basket-161709.jpeg
 temp/downloads/birth/ https://static.pexels.com/photos/208156/pexels-photo-208156.jpeg
-temp/downloads/birth/ https://static.pexels.com/photos/34763/baby-sleeping-baby-baby-girl.jpg
-temp/downloads/birth/ https://static.pexels.com/photos/225744/pexels-photo-225744.jpeg
-temp/downloads/birth/ https://cdn.pixabay.com/photo/2017/09/11/15/09/baby-2739295_1280.jpg
 
 temp/downloads/infancy/parents https://cdn.pixabay.com/photo/2017/08/08/03/50/family-2610205_1280.jpg
 temp/downloads/infancy/parents https://static.pexels.com/photos/2133/man-person-cute-young.jpg
